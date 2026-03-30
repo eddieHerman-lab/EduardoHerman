@@ -2,11 +2,11 @@
 
 🎓 Estudante de **Ciência de Dados** (conclusão em 2026)  
 🔍 Em transição de carreira para a área de dados, com foco em **machine learning**, **estatística aplicada** e **pesquisa**  
-📍 Niterói - RJ, Brasil
+ Niterói - RJ, Brasil
 
 ---
 
-## 🧠 Sobre mim
+##  Sobre mim
 
 - Tenho projetos práticos em **classificação**, **regressão**, **sistemas de recomendação** e **visualização de dados**.
 - Publiquei um **pré-print no Zenodo** – isso mostra meu interesse por pesquisa e produção científica.
@@ -15,7 +15,7 @@
 
 ---
 
-## 🔧 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 **Linguagens:** Python, SQL  
 **Bibliotecas:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Streamlit, SHAP, LIME  
@@ -24,7 +24,7 @@
 
 ---
 
-## 📌 Projetos em destaque
+##  Projetos em destaque
 
 ### 🩺 Sistema de Apoio ao Diagnóstico de Câncer de Mama (SVM)
 - Modelo preditivo com **98,2% de acurácia**, AUC-ROC 0,995
@@ -40,7 +40,7 @@
 - Pré-processamento, validação cruzada e otimização de hiperparâmetros
 
 ### 📄 Pré-print publicado
-- [Título do seu trabalho – se quiser colocar]  
+- [Análise microscópica do espaço latente: heurísticas para interpretabilidade, autenticidade e detecção de viés em representações VAE]  
 - 🔗 https://doi.org/10.5281/zenodo.16827724
 
 ---
