@@ -1,5 +1,4 @@
-# 👋 Olá! Seja bem vindo a minha pagina
-   Eu sou  Eduardo Hermanson
+# 👋 Olá! Eu sou Eduardo Hermanson, seja bem-vindo à minha página
 
 🎓 Estudante de **Ciência de Dados** (conclusão em 2026)  
 🔍 Em transição de carreira para a área de dados, com foco em **machine learning**, **estatística aplicada** e **pesquisa**  
